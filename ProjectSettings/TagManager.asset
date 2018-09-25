@@ -1,0 +1,61 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Balls
+  - Walls
+  - BaseBalls
+  - GameManager
+  - Gun
+  - ball
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Balls
+  - Particles
+  - Walls
+  - Camera
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 1505322961
+    locked: 0
+  - name: Balls
+    uniqueID: 1259840863
+    locked: 0
+  - name: Particles
+    uniqueID: 3196565811
+    locked: 0
+  - name: Foreground
+    uniqueID: 3876425699
+    locked: 0
